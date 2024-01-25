@@ -1,5 +1,4 @@
 static/vendor/*
 !static/vendor/.json
-**/node_modules
 static/vendor/node_modules/*
 static/vendor/node_modules/
